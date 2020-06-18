@@ -1,3 +1,6 @@
 # 3D-Autoencoder
 
-An autoencoder with 3D convolutional layer based on tensorflow 2
+This project aims to Develop an autoencoder with 3D convolutional layers. 
+
+Libraries
+Tensorflow 2
